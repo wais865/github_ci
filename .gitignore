@@ -1,1 +1,4 @@
-node_modules/
+nodjs/node_modules/
+python/__pycache__
+python/.pycache
+python/.venv
